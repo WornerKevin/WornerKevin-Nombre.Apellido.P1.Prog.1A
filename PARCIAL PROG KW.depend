@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1652705727 source:c:\users\kevin worner\desktop\parcial prog kw\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-
